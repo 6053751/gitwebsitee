@@ -1,5 +1,5 @@
 <?php
 
-    echo "dit is pagina1";
+    echo "pagina 1"; 
 
     ?>
